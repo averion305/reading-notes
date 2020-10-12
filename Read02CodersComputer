@@ -27,6 +27,12 @@ Copy - ie. Copy a file or directory.
 Move - ie. Move a file or directory (can also be used to rename).
 3. rm
 Remove - ie. Delete a file.
+3. vi
+Edit a file.
+3. cat
+View a file.
+3. less
+Convenient for viewing large files.
 
 ##File navigation
 
