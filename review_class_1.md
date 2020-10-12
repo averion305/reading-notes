@@ -26,6 +26,9 @@ codeblock tester
 ```
 
 ##quoting
+
 >this is a quote block
-/n >this is also a quote
-/n >another quote
+
+>this is also a quote
+
+>another quote
