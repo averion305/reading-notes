@@ -1,3 +1,5 @@
+# Read 03: Github
+
 [Main Page](https://averion305.github.io/reading-notes/)
 
 # Git is used for version control
@@ -36,3 +38,7 @@ codefellows$ cd 102
 /mnt/c/Users/Kyle/documents/projects/codefellows/102
 102$
 ```
+
+## Google is your friend; become a  professional Googler
+
+[GOD MODE](https://google.com/)

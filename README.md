@@ -2,15 +2,23 @@
 
 This is Kyle's webpage for Codefellows 102! [Welcome!](https://averion305.github.io/reading-notes/)
 
+
+## Google is your friend; become a  professional Googler
+
+[GOD MODE](https://google.com/)
+
+
 # Table of contents
 
-[Review Class 1: GitHub](https://averion305.github.io/reading-notes/review_class_1)
+[Review Class 1: GitHub](https://averion305.github.io/reading-notes/review01)
 
-[Read Class 2:Programmers Computer](https://averion305.github.io/reading-notes/Read02CodersComputer)
+[Read Class 2:Programmers Computer](https://averion305.github.io/reading-notes/read02)
 
-[Review Class 2:Programmers Computer](https://averion305.github.io/reading-notes/ReviewClass2)
+[Review Class 2:Programmers Computer](https://averion305.github.io/reading-notes/review02)
 
 [Read Class 3: GitHub](https://averion305.github.io/reading-notes/read03)
+
+[Lab Class 3: GitHub](https://averion305.github.io/reading-notes/lab03)
 
 ** Under Construction
 

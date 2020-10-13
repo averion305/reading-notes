@@ -1,4 +1,5 @@
-# review Class 01
+# Review Class 01
+
 [Main Page](https://averion305.github.io/reading-notes/)
 
 # unordered list
@@ -41,3 +42,9 @@ codeblock tester
 > this is also a quote
 
 > another quote
+
+
+
+## Google is your friend; become a  professional Googler
+
+[GOD MODE](https://google.com/)

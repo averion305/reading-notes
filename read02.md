@@ -1,4 +1,4 @@
-# The Coders Computer
+# Read 02: The Coders Computer
 
 [Main Page](https://averion305.github.io/reading-notes/)
 
@@ -21,23 +21,32 @@
 3. PWD: print working directory
 
 3. mkdir
-Make Directory - ie. Create a directory.
+
+    Make Directory - ie. Create a directory.
 3. rmdir
-Remove Directory - ie. Delete a directory.
+
+    Remove Directory - ie. Delete a directory.
 3. touch
-Create a blank file.
+
+    Create a blank file.
 3. cp
-Copy - ie. Copy a file or directory.
+
+    Copy - ie. Copy a file or directory.
 3. mv
-Move - ie. Move a file or directory (can also be used to rename).
+
+    Move - ie. Move a file or directory (can also be used to rename).
 3. rm
-Remove - ie. Delete a file.
+
+    Remove - ie. Delete a file.
 3. vi
-Edit a file.
+
+    Edit a file.
 3. cat
-View a file.
+
+    View a file.
 3. less
-Convenient for viewing large files.
+
+    Convenient for viewing large files.
 
 ## File navigation
 
@@ -53,3 +62,8 @@ Convenient for viewing large files.
 4. nb - move back n word
 4. { - move backward one paragraph
 4. } - move forward one paragraph
+
+
+## Google is your friend; become a  professional Googler
+
+[GOD MODE](https://google.com/)
