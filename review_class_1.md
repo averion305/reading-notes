@@ -12,7 +12,7 @@
 
 * two
 
-*three
+* three
 
 ## ordered list
 1. This is top.
@@ -33,10 +33,10 @@ This is the link to the where you want to go
 codeblock tester
 ```
 
-##quoting
+## quoting
 
->this is a quote block
+> this is a quote block
 
->this is also a quote
+> this is also a quote
 
->another quote
+> another quote
