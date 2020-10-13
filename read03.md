@@ -22,16 +22,16 @@
 
 # Making directories
 
-Kyle$ cd documents
-documents$ mkdir projects
-mkdir: cannot create directory ‘projects’: File exists
-documents$ cd projects
-projects$ ls
-codefellows
-projects$ cd codefellows
-codefellows$ ls
-102
-codefellows$ cd 102
-102$ pwd
-/mnt/c/Users/Kyle/documents/projects/codefellows/102
-102$
+- Kyle$ cd documents
+- documents$ mkdir projects
+- mkdir: cannot create directory ‘projects’: File exists
+- documents$ cd projects
+- projects$ ls
+- codefellows
+- projects$ cd codefellows
+- codefellows$ ls
+- 102
+- codefellows$ cd 102
+- 102$ pwd
+- /mnt/c/Users/Kyle/documents/projects/codefellows/102
+- 102$
