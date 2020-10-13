@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages for Kyle Jungk Coding 102!
 
-This is Kyle's webpage for Codefellows 102! Welcome!
+This is Kyle's webpage for Codefellows 102! [Welcome!](https://averion305.github.io/reading-notes/)
 
 # Table of contents
 
