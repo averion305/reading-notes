@@ -1,6 +1,10 @@
+[Main Page](https://averion305.github.io/reading-notes/)
+
 # Git is used for version control
+
 # GitHub is the cloud
-# repositories
+
+# Repositories
 
 - collection of files that Git pays attention to
 -
