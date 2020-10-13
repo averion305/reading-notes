@@ -27,7 +27,7 @@ this is the name that shows up on the screen
 ()
 This is the link to the where you want to go
 
-[Random Word](http://starwars.com)
+[Join the Rebellion today! Use the Force! #babyyoda](http://starwars.com)
 
 ```
 codeblock tester
