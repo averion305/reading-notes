@@ -20,13 +20,13 @@
 codeblocks use the ` key which is to the left of the 1 key and shares a key with the ~; not the ' key which shares its spot with " and will create a really long text box if you keep putting words in
 ```
 
--Certain commands got all the data you need
+- Certain commands got all the data you need
 
--Make sure your system is up to date
+- Make sure your system is up to date
 
--Turn off other programs when doing major installs
+- Turn off other programs when doing major installs
 
--Be aware of resource usage, turn off periphery programs
+- Be aware of resource usage, turn off periphery programs
 
 ## Google is your friend; become a  professional Googler
 
