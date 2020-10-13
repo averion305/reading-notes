@@ -50,3 +50,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 # Table of contents
 
 [Read 02:Programmers Computer](https://averion305.github.io/reading-notes/Read02CodersComputer)
+
+[Review 02:Programmers Computer](https://averion305.github.io/reading-notes/ReviewClass02)
