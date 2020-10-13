@@ -11,3 +11,5 @@
 -Be aware of resource usage, turn off periphery programs
 
 ## Google is your friend; become a  professional Googler
+
+[GOD MODE](https://google/)
