@@ -1,7 +1,9 @@
-[Main Page](https://averion305.github.io/reading-notes/)
 #The Coders Computer
 
+[Main Page](https://averion305.github.io/reading-notes/)
+
 [Terms Cheatsheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
+
 1. We learned how to move files around by using command line functions instead of the GUI
 
 1. We installed a few command line tools 
@@ -37,7 +39,7 @@ View a file.
 3. less
 Convenient for viewing large files.
 
-##File navigation
+## File navigation
 
 4. Arrow keys - move the cursor around
 4. j, k, h, l - move the cursor down, up, left and right (similar to the arrow keys)
