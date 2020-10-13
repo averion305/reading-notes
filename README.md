@@ -12,4 +12,15 @@ This is Kyle's webpage for Codefellows 102! Welcome!
 
 [Read Class 3: GitHub](https://averion305.github.io/reading-notes/read03)
 
+** Under Construction
 
+
+[Review Class 3: GitHub](https://averion305.github.io/reading-notes/review03)
+
+[Read Class 4: GitHub](https://averion305.github.io/reading-notes/read04)
+
+[Review Class 4: GitHub](https://averion305.github.io/reading-notes/review04)
+
+[Read Class 5: GitHub](https://averion305.github.io/reading-notes/read05)
+
+[Review Class 5: GitHub](https://averion305.github.io/reading-notes/review05)
