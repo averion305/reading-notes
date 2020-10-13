@@ -1,16 +1,16 @@
 # review Class 01
 [Main Page](https://averion305.github.io/reading-notes/)
 -
-#unordered list
--this is first
+# unordered list
+- this is first
 
--this is second
+- this is second
 
--this is third
+- this is third
 
-*one
+* one
 
-*two
+* two
 
 *three
 
