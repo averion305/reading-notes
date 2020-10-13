@@ -12,4 +12,4 @@
 
 ## Google is your friend; become a  professional Googler
 
-[GOD MODE](https://google/)
+[GOD MODE](https://google.com/)
