@@ -9,7 +9,7 @@
 - collection of files that Git pays attention to
 -
 # Reading Assignment
-[Cheat sheet] (https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+[Cheat sheet](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 ## Importing a repository
 
 1. Switch to the target project's directory cd test
